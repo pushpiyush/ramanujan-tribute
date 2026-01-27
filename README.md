@@ -4,9 +4,9 @@ A **tribute web page** dedicated to the legendary Indian mathematician **Sriniva
 
 This project showcases a tribute page created with HTML and CSS to honor his life and contributions.
 
-## 📌 Live Preview
+## 📌 Live Demo
 
-You can view the live tribute page by hosting this repository using GitHub Pages or by opening `index.html` in your browser.
+https://piyushforcode.github.io/ramanujan-tribute/
 
 ## 🧩 About the Project
 
