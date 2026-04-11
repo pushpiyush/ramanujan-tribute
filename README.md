@@ -1,14 +1,14 @@
-# Ramanujan Tribute 🧠📜
+# Ramanujan Tribute
 
 A **tribute web page** dedicated to the legendary Indian mathematician **Srinivasa Ramanujan** — one of the greatest mathematical minds in history.
 
 This project showcases a tribute page created with HTML and CSS to honor his life and contributions.
 
-## 📌 Live Demo
+## Live Demo
 
 https://piyushforcode.github.io/ramanujan-tribute/
 
-## 🧩 About the Project
+## About the Project
 
 This repository contains:
 
@@ -16,13 +16,13 @@ This repository contains:
 - `style.css` — Styling for the tribute page.  
 - `images/` — Relevant images used in the project.
 
-## 🙌 Features
+## Features
 
 - Clean and simple design focused on Ramanujan’s life.  
 - Highlights key moments and achievements.  
 - Responsive layout for viewing on different devices.
 
-## 🚀 Getting Started
+## Getting Started
 
 To view locally:
 
