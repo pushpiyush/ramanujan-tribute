@@ -6,7 +6,7 @@ This project showcases a tribute page created with HTML and CSS to honor his lif
 
 ## Live Demo
 
-https://piyushforcode.github.io/ramanujan-tribute/
+https://pushpiyush.github.io/ramanujan-tribute/
 
 ## About the Project
 
